@@ -4,15 +4,14 @@ c = int(input())
 d = int(input())
 
 # def solver(a, b, c, d):
-A = (a == 0 & b == 0)  # first line in 0
-B = a!=0 # first line not parallel
-C = (a == 0 & b != 0)  # first line parallel
-D = (c == 0 & d == 0)  # second line in zero
-E = (b / a == d / c)  # both lines intersects in one point
-
-if any([A]):
+if (a != 0) & (b*c-a*d != 0):
+    x = -b/a
+    if (x == round(x)) & ((c*x+d) != 0):
+        print(int(-b/a))
+    else:
+        print('NO')
+elif a == 0 & b == 0:
     print('INF')
-elif any([E, C, D]):
-    print('NO')
 else:
-    print(int(-b / a))
+    print('NO')
+

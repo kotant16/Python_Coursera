@@ -14,4 +14,3 @@ elif a == 0 & b == 0:
     print('INF')
 else:
     print('NO')
-

@@ -1,17 +1,12 @@
-k = int(input())
-m = int(input())
-n = int(input())
-t = 0
+k = input()
+m = input()
+n = input()
 
-if k >= n:
-    t = m * 2
-
-elif n % k == 0:
-    t = ((n // k) * m * 2)
-
-elif n % k != 0:
-    if (n % k) > (k / 2):
-        t = ((n // k) * m * 2) + m * 2
-    elif (n % k) < (k / 2):
-        t = (((n // k)) * m * 2) + m
-print(t)
+if min(k, m, n) <= 0:
+    print(0)
+sides = n*2
+cycles = sides//k
+if sides%n == 0:
+    print(cycles*m)
+else:
+    print(cycles*m + m)

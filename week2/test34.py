@@ -6,3 +6,4 @@ while n != 0:
     count += 1
     seqSum = seqSum + n
 print(float(seqSum / count))
+######

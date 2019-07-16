@@ -1,6 +1,9 @@
-N = int(input())
-i = 1
-while i**2 <= N:
-    print(i**2)
-    i = i + 1
-    ###
+a = float(input())
+b = float(input())
+c = float(input())
+
+p = (a + b + c) / 2
+
+S = ((p * (p - a) * (p - b) * (p - c)) ** (1 / 2))
+
+print(S)

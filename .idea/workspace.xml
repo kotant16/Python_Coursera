@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b4ae532-9649-48da-8c29-167a1fedf43b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ new Python Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ new Python Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/test6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week1/test6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/test10.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/test10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/test9.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/test9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week3/test14.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3/test14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +17,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -493,6 +493,14 @@
       <screen x="0" y="25" width="1440" height="826" />
     </state>
     <state x="229" y="74" key="SettingsEditor/0.25.1440.826@0.25.1440.826" timestamp="1606663907500" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1608528613934">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.25.1440.826@0.25.1440.826" timestamp="1608528613934" />
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608529126687">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.826@0.25.1440.826" timestamp="1608529126687" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

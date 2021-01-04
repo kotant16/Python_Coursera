@@ -5,3 +5,5 @@ print('The next number for the number', N, 'is', end=' ')
 print(b, '.', sep='')
 print('The previous number for the number', N, 'is', end=' ')
 print(a, '.', sep='')
+
+
